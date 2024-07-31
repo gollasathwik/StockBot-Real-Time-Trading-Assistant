@@ -1,11 +1,2 @@
 # StockBot-Real-Time-Trading-Assistant
-
-Objective : To maximize profit while using the least amount of capital and To forecast stock prices using price momentum and reinforcement learning.
-
-Using the previously mentioned reinforcement agents, we begin training the model by taking the closing price as input, which influences in what action is necessary to receive the highest reward points for various agents.
-
-Created a Real time Stock Trading Bot using Policy Gradient Agent model which gives us the maximum reward points and profits by trading the initial starting amount assigned to the trading bot in least amount of time.
-
-
-
-
+Reinforcement Learning Course Project: Developed a cutting-edge Stock Trading bot leveraging real-time closing price data. Our experiment compared four distinct agents: Policy Gradient, Q-learning, Moving Average, and Actor Critic. Stay tuned as we harness the power of the best model to create an automated trading application with real-time stock data which gives us the maximum reward points and profits by trading the initial starting amount assigned to the trading bot in least amount of time.
